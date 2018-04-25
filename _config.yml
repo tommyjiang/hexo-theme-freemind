@@ -1,22 +1,22 @@
-slogan: "Yet another bootstrap theme."
+slogan: "Talk is cheap, show me the code."
 
-theme: cerulean
+theme: journal
 inverse: true
 
 menu:
-  - title: Archives
+  - title: 归档 
     url: archives
     intro: "All the articles."
     icon: "fa fa-archive"
-  - title: Categories
+  - title: 分类
     url: categories
     intro: "All the categories."
     icon: "fa fa-folder"
-  - title: Tags
+  - title: 标签
     url: tags
     intro: "All the tags."
     icon: "fa fa-tags"
-  - title: About
+  - title: 关于
     url: about
     intro: "About me."
     icon: "fa fa-user"
@@ -27,11 +27,11 @@ links:
     intro: "Freemind's Github repository."
     icon: "fa fa-github"
   - title: "My Github"
-    url: http://www.github.com/wzpan
+    url: http://www.github.com/tommyjiang/
     intro: "My Github account."
     icon: "fa fa-github"
   - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
+    url: https//www.linkedin.com/in/hao-jiang-983a0553/
     intro: "My Linkin account."
     icon: "fa fa-linkedin"
 
@@ -67,12 +67,3 @@ baidu_tongji:
 # share widgets
 bdshare: true
 jiathis: false
-
-# built-in comment system
-comment_js:
-  type: "github"
-  user: "wzpan"
-  repo: "hexo-theme-freemind-blog"
-  client_id: "bf7d4ba11877db88543e"
-  client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb"
-  count: 5
