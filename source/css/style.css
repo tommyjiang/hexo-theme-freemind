@@ -109,6 +109,9 @@ body {
 /* =============================================================================
    List
    ========================================================================== */
+li {
+  text-align: justify;
+}
 
 li i {
   margin-right: 5px;
@@ -260,6 +263,7 @@ a.inline-ref:hover {
 
 blockquote p, blockquote ol, blockquote ul, blockquote li, .slogan{
   font-family: 'Open Sans',"Helvetica Neue", Helvetica, "Segoe UI", Ubuntu, "Hiragino Sans GB", '楷体', 'STKaiti';
+  font-size: medium;
 }
 
 /* =============================================================================
