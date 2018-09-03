@@ -31,7 +31,7 @@ links:
     intro: "My Github account."
     icon: "fa fa-github"
   - title: "My LinkedIn"
-    url: https//www.linkedin.com/in/hao-jiang-983a0553/
+    url: https://www.linkedin.com/in/hao-jiang-983a0553/
     intro: "My Linkin account."
     icon: "fa fa-linkedin"
 
@@ -60,9 +60,6 @@ google_analytics:
 baidu_tongji:
   enable: false
   siteid:
-
-# search
-# swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 
 # share widgets
 bdshare: true

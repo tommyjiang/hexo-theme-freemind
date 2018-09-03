@@ -1477,7 +1477,10 @@ blockquote {
   font-size: 18.75px;
   border-left: 5px solid #eeeeee;
 }
-blockquote p:last-child,
+blockquote p {
+  text-indent: 0;
+}
+/* blockquote p:last-child, */
 blockquote ul:last-child,
 blockquote ol:last-child {
   margin-bottom: 0;
