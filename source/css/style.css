@@ -111,7 +111,7 @@ body {
    ========================================================================== */
 li {
   text-align: justify;
-  margin-left: 1em;
+  margin-left: 0em;
 }
 
 li i {
@@ -513,7 +513,6 @@ table {
 
 th {
   padding: 12px 10px 12px 10px;
-  border-bottom: 1px dashed #4088b8;
 }
 
 td {
