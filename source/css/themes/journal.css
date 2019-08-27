@@ -1282,9 +1282,9 @@ h6,
   font-size: 13px;
 }
 p {
-  margin: 0 0 10.5px;
+  margin: 0 0 5px;
   text-align: justify;
-  text-indent: 2em;
+  text-indent: 0em;
 }
 .lead {
   margin-bottom: 21px;
@@ -1472,8 +1472,8 @@ abbr[data-original-title] {
   text-transform: uppercase;
 }
 blockquote {
-  padding: 10.5px 21px;
-  margin: 0 0 21px;
+  padding: 5px 10px;
+  margin: 0 0 5px 5px;
   font-size: 18.75px;
   border-left: 5px solid #eeeeee;
 }
